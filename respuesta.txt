@@ -1,0 +1,10 @@
+-Investigueu què fan els fitxers package.json i package-lock.json.
+
+ package.json: es un archivo que contiene la informacion relevantes del proyecto y se usa para administrar las 
+dependencias del proyecto,Scrips,versiones entre otras cosas,además de listar los paquetes de los que depende.
+
+ package-lock.json: con este archivo cuando alguien clona nuestro repositorio y ejecuta npm install en su equipo
+ se examina este archivo para asegurarse que se ponen exactamente las mismas versiones de los paquetes que teniamos 
+ instalados.
+
+-Investigueu què és la carpeta node_modules.
